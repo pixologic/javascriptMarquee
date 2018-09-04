@@ -9,8 +9,6 @@ Dependency: jQuery (any version) <br />
 5: Make the LI's arranged horizontally. <br />
 6: Now use this function to initiate the ticker. <br />
 <br />
-<br />
-<br />
 <script> <br />
 initTicker([wrapper div ID]) <br />
 </script>
